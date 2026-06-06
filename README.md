@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/provider-Claude%20%7C%20OpenAI%20%7C%20GLM%20%7C%20Minimax%20%7C%20Custom-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/author-M%20Erlandi-red?style=flat-square"/>
 </p>
 
 A self-hosted Telegram bot powered by [Claude Code CLI](https://claude.ai/code) with multi-provider LLM support. Escoffier is designed as an **autonomous partner** — not a generic assistant — with a persistent identity defined via `CLAUDE.md`, context-aware responses, prompt injection resistance, and a fake hacking-style progress animation.
@@ -426,6 +427,23 @@ User message
 
 ---
 
+## About the Author
+
+**M Erlandi** — International Security Researcher, Penetration Tester & Bug Bounty Hunter.
+
+Working across recon, OSINT, web/network exploitation, cryptography, forensics, and social engineering on authorized engagements and international bug bounty programs.
+
+Escoffier was built as a personal local AI agent — a partner for day-to-day security operations, running fully self-hosted from a mobile device via Termux.
+
+| | |
+|---|---|
+| GitHub | [@erlandi-main-api](https://github.com/erlandi-main-api) |
+| Email | info@queenventures.org |
+
+---
+
 ## License
 
-MIT — free to use, modify, and distribute.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 M Erlandi
