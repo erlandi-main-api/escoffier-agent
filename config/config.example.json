@@ -1,0 +1,5 @@
+{
+  "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "owner_id": "YOUR_TELEGRAM_USER_ID",
+  "max_history": 10
+}

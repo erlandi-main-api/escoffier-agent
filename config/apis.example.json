@@ -1,0 +1,33 @@
+{
+  "active": "claude",
+  "providers": {
+    "claude": {
+      "type": "claude_cli"
+    },
+    "openai": {
+      "type": "openai_compatible",
+      "base_url": "https://api.openai.com/v1",
+      "api_key": "sk-YOUR_KEY",
+      "model": "gpt-4o"
+    },
+    "glm": {
+      "type": "openai_compatible",
+      "base_url": "https://open.bigmodel.cn/api/paas/v4",
+      "api_key": "YOUR_GLM_KEY",
+      "model": "glm-4-flash"
+    },
+    "minimax": {
+      "type": "openai_compatible",
+      "base_url": "https://api.minimax.chat/v1",
+      "api_key": "YOUR_MINIMAX_KEY",
+      "group_id": "YOUR_GROUP_ID",
+      "model": "abab6.5s-chat"
+    },
+    "custom": {
+      "type": "openai_compatible",
+      "base_url": "https://your-custom-api.com/v1",
+      "api_key": "YOUR_KEY",
+      "model": "your-model-name"
+    }
+  }
+}
